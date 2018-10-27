@@ -1,2 +1,2 @@
 # Fract-ol
-2D fractal representation
+2D fractal representation program
